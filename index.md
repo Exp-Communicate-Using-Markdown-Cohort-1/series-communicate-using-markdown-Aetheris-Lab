@@ -3,8 +3,8 @@
 #### Also I Like Organised Things
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-'''
+```
 $ go mod init
 $ go build
 $ go run
-'''
+```
