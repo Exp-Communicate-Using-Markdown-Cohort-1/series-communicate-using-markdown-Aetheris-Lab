@@ -8,6 +8,6 @@ $ go mod init
 $ go build
 $ go run
 ```
-- [x] Added Headings
-- [x] Added Images
-- [x] Added Code Snippet
+- [ ] Added Headings
+- [ ] Added Images
+- [ ] Added Code Snippet
